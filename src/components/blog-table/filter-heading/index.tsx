@@ -2,7 +2,7 @@ import React from 'react'
 import SearchInput from './search-input'
 import LayoutSwitch from './layout-switch'
 import SortBy from './sort-by'
-import Filters from './filters'
+import Filters from './filters/index'
 
 const FilterHeading = () => {
   return (
